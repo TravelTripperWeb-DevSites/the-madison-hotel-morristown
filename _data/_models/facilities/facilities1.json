@@ -1,6 +1,6 @@
 {
-    "name": "The Spa",
-    "description":  "Have a nice relaxing time at the spa",
-    "order": 1,
-    "hidden": false
+  "name": "Dining",
+  "description": " <br />Grab a bite at one of the hotel&apos;s 2 restaurants, or stay in and take advantage of room service (during limited hours). A complimentary continental breakfast is served daily.",
+  "order": 1,
+  "hidden": false
 }

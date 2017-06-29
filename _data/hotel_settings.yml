@@ -1,0 +1,16 @@
+---
+_hotel_id: MAD743
+_portal_id: required-but-empty
+_root_path: https://qa4.ttaws.com/rt
+latitude: 40.77898
+longitude: -74.44255
+name: Madison Hotel
+email: steffan@traveltripper.io
+phone_number: "--"
+address:
+  street1: 1 Convent Rd
+  street2: ''
+  state: New Jersey
+  city: Morristown
+  country: United States
+  zip_code: 07960
